@@ -1,11 +1,17 @@
-body{
-    background-color: darkkhaki;
-}
+body {
+    background-image: url("https://images.pexels.com/photos/6187646/pexels-photo-6187646.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");
+    background-size: cover;
+    background-position: center center;
+  }
 
 header{
     background-color:black;
     color: burlywood;
     padding: 1px;
+}
+h2, p{
+    font-size: 10px;
+    color: whitesmoke;
 }
 
 .logo img{
